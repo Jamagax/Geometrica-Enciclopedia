@@ -1,5 +1,16 @@
-# GeometricaEnciclopedia
+- La *Geométrica Enciclopedia* es un compendio Físico-Virtual de conceptos, figuras y sistemas geométricos utilizados en el Diseño Computacional para la generación de Objetos y Espacios en el Mundo Físico -Material y en el Mundo Virtual  (Metaversos).
+- La [[Geométrica Enciclopedia]] es un documento vivo abierto a la aportación y al cuestionamiento a modo de repositorio digital open source, donde cualquiera puede hacer aportaciones y sugerencias.
+- El contenido publicado será seleccionado por una serie de especialistas y por la comunidad.
+- El contenido de la obra es en principio una interpretación de conceptos, figuras y sistemas geométricos definidos por Javier M Gaxiola, se espera que con el tiempo los conceptos y representaciones sean definidos así como generados por una comunidad comprometida en estudiar y compartir los conocimientos de la forma computacional.
 
-Enciclopedia Interactiva de Diseño Computacional
-
-Este es un repocitorio de geometría computacional principalmente utilizada en los sistemas CAD (Diseño Asistido por Computadora), pero muchos de los ejemplos se pueden representar de modo analógico con herramientas tradicionales.
+- ## Publicaciones:
+	- Inicialmente la Geométrica se desarrollará en distintas salidas en distintas Dimensiones :
+		- Repositorio Digital en GitHub
+		- 2° Dimensión - Geométrica Enciclopedia impresa a modo de libro con una revisión y reimpresión anual.
+		- 2° Dimensión - Página Web con modelos tridimensionales con revisiones y actualizaciones regulares
+		- 3° Dimensión - Modelo Digital en Rhinoceros y sus extensiones paramétricas, con revisiones y actualizaciones regulares
+		- NFTs - Coleccionables sobre los conceptos de la Geométrica
+	- ### Planes a Fututo:
+		- 3.5° Dimensión - Realidad Aumentada - Realidad Virtual , con revisiones y actualizaciones regulares
+		- Librería de Python sobre los conceptos de la Geométrica Enciclopedia
+		- Librería y página web en Tree.js
